@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Blourvim&#x27;s blog</title>
+    <subtitle>my blog</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blourvim.github.io/zola-blog/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blourvim.github.io/zola-blog"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-10-05T00:00:00+00:00</updated>
+    <id>https://blourvim.github.io/zola-blog/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hello World</title>
+        <published>2024-10-05T00:00:00+00:00</published>
+        <updated>2024-10-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              blourvim
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blourvim.github.io/zola-blog/posts/hello_friend/"/>
+        <id>https://blourvim.github.io/zola-blog/posts/hello_friend/</id>
+        
+        <content type="html" xml:base="https://blourvim.github.io/zola-blog/posts/hello_friend/">&lt;h3 id=&quot;A_Helpful_Start&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#A_Helpful_Start&quot; aria-label=&quot;Anchor link for: A_Helpful_Start&quot;&gt;#&lt;&#x2F;a&gt;A Helpful Start&lt;&#x2F;h3&gt;
+&lt;p&gt;Hello World was the first thing I programmed a computer to print out. It was not on my own accord but by tradition, which was passed down to me like many others. It was nothing other than understanding and replicating knowledge of those that had done before me. &quot;Hello world,&quot;  so simple and elegant; it is not just a phrase; it is one generation passing the torch to the next. It is the result of accumulating human knowledge through centuries. Whenever I find myself learning a new language, I am reminded of this again. Knowledge being passed down me, I can&#x27;t help but to reminisce about my first lines of code filled with wonder. Same as i experience the same wonder time and time again.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Somehow_Reliving_The_Same_Cycle:&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Somehow_Reliving_The_Same_Cycle:&quot; aria-label=&quot;Anchor link for: Somehow_Reliving_The_Same_Cycle:&quot;&gt;#&lt;&#x2F;a&gt;Somehow Reliving The Same Cycle:&lt;&#x2F;h2&gt;
+&lt;p&gt;When I make mistakes i find myself frustrated, after i solve them as if i am connected to a glimpse in time, reliving the same feelings when i first got the privilidge to solve my own problems, through research, reason, and hard work. I feel ever so greatful to be a part of a chain of knowledge. Just like a link in the chain is almost identical to the others, I dont find it too far fetched to imagine that earlier links have utilized the same kind of frustration, intoxicating wonder then a self of accomplishment, when they first discovered that heating up foods in water made them into a safe and delicious &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=mBxRFw9W_xs&quot;&gt;soup&lt;&#x2F;a&gt;, or like the next generation whom will come after me, tasked with deploying their first &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dyson_sphere&quot;&gt;Dyson sphere&lt;&#x2F;a&gt;, will experience that same wonder. Same wonder which chains us all makes this cycle possible.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Debt,_Duty_And_Pride&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Debt,_Duty_And_Pride&quot; aria-label=&quot;Anchor link for: Debt,_Duty_And_Pride&quot;&gt;#&lt;&#x2F;a&gt;Debt, Duty And Pride&lt;&#x2F;h2&gt;
+&lt;p&gt;Knowledge was created by many that never got the credit the deserved, many did not do so for their own benefit, in that time, and in that place there was none, they knew that their work would never be recognized in their lifetime, or ever, yet they worked hard in pursit of knowledge. Their time may have come to an end
+But not their work. Their work is what i am so lucky to build upon, knowledge that i am able to stand on top of to watch the stars, to do so is my privilidge as my burden.
+As I continue to build upon the foundations laid by those who came before me, I know that my work is not just my own. Just as they pushed knowledge further I must do so the same, it is in this sense of duty that I find purpose. I hope that knowledge I help come into existence one day will  help someone I will never meet, working on problems I can’t even imagine. And so, we continue the cycle, each generation standing on the shoulders of the one before, driven by the same wonder.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;Conclusion&quot;&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#Conclusion&quot; aria-label=&quot;Anchor link for: Conclusion&quot;&gt;#&lt;&#x2F;a&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;The pursuit of knowledge is often bears fruit after many lifetimes. There is nothing i can do but cope to the fact that I am looking at the stars from the shoulders of giants, that never got to see what i can now do. I only hope that i will be able to light another torch to pass on.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

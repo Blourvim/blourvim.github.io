@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/categories/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/categories/ramblings/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/offline/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/posts/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/posts/hello_friend/</loc>
+        <lastmod>2024-10-05</lastmod>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/projects/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/tags/</loc>
+    </url>
+    <url>
+        <loc>https://blourvim.github.io/zola-blog/tags/ramblings/</loc>
+    </url>
+</urlset>
